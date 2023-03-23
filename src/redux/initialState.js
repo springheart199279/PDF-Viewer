@@ -25,6 +25,8 @@ import { ShortcutKeys } from 'helpers/hotkeysManager';
 
 const { ToolNames } = window.Core.Tools;
 
+// redux
+
 export default {
   viewer: {
     initalsOffset: 0,
